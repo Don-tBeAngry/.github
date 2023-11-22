@@ -6,4 +6,4 @@
 
 ## 전체 구조
 
-![poster](./architecture_diagram.png)
+![poster](./archi_dia_picture.png)

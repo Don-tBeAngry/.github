@@ -24,3 +24,22 @@
 </div>
 
 ## 3️⃣ 서비스 시연 
+### (1) 위치 기반 친구 찾기 서비스
+<div align="center">
+<img src="https://github.com/Don-tBeAngry/happytrip-community-service/assets/48899016/f485e68b-f258-475a-adf4-cc5599916922" alt="location service gif" width="700"/>
+</div>
+
+### (2) 실시간 채팅 서비스
+<div align="center">
+<img src="https://github.com/Don-tBeAngry/happytrip-community-service/assets/48899016/dae6b848-c2c3-4f5e-a1ec-c10af27e3fe9" alt="chat service gif" width="700"/>
+</div>
+
+### (3) 여행 경로 제작 서비스
+<div align="center">
+<img src="https://github.com/Don-tBeAngry/happytrip-community-service/assets/48899016/5eb07454-8a22-4409-8b88-5daa65edc786" alt="plan service gif" width="700">
+</div>
+
+### (4) 게시판 기반 친구 찾기 서비스
+<div align="center">
+<img src="https://github.com/Don-tBeAngry/happytrip-community-service/assets/48899016/b707dc66-d722-44e3-9b09-75dadccadf80" alt="companion service gif" width="700">
+</div>

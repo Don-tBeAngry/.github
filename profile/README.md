@@ -15,12 +15,12 @@
 
 ## 1️⃣ 서비스 개요 
 <div align="center">
-<img src="asset/service_overview.png" alt="service_overview" width="800"/>
+<img src="service_overview.png" alt="service_overview" width="800"/>
 </div>
 
 ## 2️⃣ 시스템 아키텍처
 <div align="center">
-<img src="asset/architecture_diagram.png" alt="architecture_diagram" width="800"/>
+<img src="architecture_diagram.png" alt="architecture_diagram" width="800"/>
 </div>
 
 ## 3️⃣ 주요 서비스
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-|<img src="asset/main_feature_1.png" alt="main_feature_1" width="600">| <img src="https://github.com/Don-tBeAngry/happytrip-community-service/assets/48899016/f485e68b-f258-475a-adf4-cc5599916922" alt="location service gif"/> |
+|<img src="main_feature_1.png" alt="main_feature_1" width="600">| <img src="https://github.com/Don-tBeAngry/happytrip-community-service/assets/48899016/f485e68b-f258-475a-adf4-cc5599916922" alt="location service gif"/> |
 |:--------:|:--------:|
 
 <!-- <img src="asset/main_feature_1.png" alt="main_feature_1" width="700"><br>
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-|<img src="asset/main_feature_2.png" alt="main_feature_2" width="600">| <img src="https://github.com/Don-tBeAngry/happytrip-community-service/assets/48899016/dae6b848-c2c3-4f5e-a1ec-c10af27e3fe9" alt="chat service gif"/> |
+|<img src="main_feature_2.png" alt="main_feature_2" width="600">| <img src="https://github.com/Don-tBeAngry/happytrip-community-service/assets/48899016/dae6b848-c2c3-4f5e-a1ec-c10af27e3fe9" alt="chat service gif"/> |
 |:--------:|:--------:|
 
 
@@ -52,7 +52,7 @@
 
 <div align="center">
   
-|<img src="asset/main_feature_3.png" alt="main_feature_3" width="600">| <img src="https://github.com/Don-tBeAngry/happytrip-community-service/assets/48899016/5eb07454-8a22-4409-8b88-5daa65edc786" alt="plan service gif"> |
+|<img src="main_feature_3.png" alt="main_feature_3" width="600">| <img src="https://github.com/Don-tBeAngry/happytrip-community-service/assets/48899016/5eb07454-8a22-4409-8b88-5daa65edc786" alt="plan service gif"> |
 |:--------:|:--------:|
 
 </div>
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-|<img src="asset/main_feature_4.png" alt="main_feature_4" width="600">| <img src="https://github.com/Don-tBeAngry/happytrip-community-service/assets/48899016/b707dc66-d722-44e3-9b09-75dadccadf80" alt="companion service gif"> |
+|<img src="main_feature_4.png" alt="main_feature_4" width="600">| <img src="https://github.com/Don-tBeAngry/happytrip-community-service/assets/48899016/b707dc66-d722-44e3-9b09-75dadccadf80" alt="companion service gif"> |
 |:--------:|:--------:|
 
 </div>
